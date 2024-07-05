@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We create some utility tools to enhance the user experience
+Since its establishment in 2015, we are committed to creating utility tools to improve the user experience.
 
 ## Support us
 
